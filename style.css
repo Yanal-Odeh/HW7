@@ -1,0 +1,9 @@
+body {
+  background-color: aqua;
+}
+label {
+  font-size: 20px;
+}
+input {
+  border-radius: 10px;
+}
